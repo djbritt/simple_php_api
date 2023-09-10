@@ -2,7 +2,7 @@
 
 This API is super simple.
 
-It takes 1 string, no key, just a string.
+It takes 1 string, and a key.
 
 It stores the string into a JSON array in the same filepath as the script is in, data.json.
 
